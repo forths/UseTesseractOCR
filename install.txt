@@ -1,0 +1,4 @@
+https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/#-install-tesseract
+
+ubuntu16.04
+sudo apt update sudo apt install tesseract-ocr
