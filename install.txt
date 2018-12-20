@@ -2,3 +2,13 @@ https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubun
 
 ubuntu16.04
 sudo apt update sudo apt install tesseract-ocr
+
+sudo apt-get install tesseract-ocr-[lang]
+例子：sudo apt-get install tesseract-ocr-eng sudo apt-get install tesseract-ocr-fra
+全部：sudo apt-get install tesseract-ocr-all
+
+
+辅助
+sudo apt install imagemagick
+convert command.
+to verify if ok:  convert -h
